@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/pc/CLionProjects/frequency array & prefix sum & partial sum/ alphabetical removals/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/pc/CLionProjects/frequency array & prefix sum & partial sum/ alphabetical removals",
+	"dir-top-bld" : "C:/Users/pc/CLionProjects/frequency array & prefix sum & partial sum/ alphabetical removals/cmake-build-debug",
+	"dir-top-src" : "C:/Users/pc/CLionProjects/frequency array & prefix sum & partial sum/ alphabetical removals",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/pc/CLionProjects/frequency array & prefix sum & partial sum/ alphabetical removals/cmake-build-debug/CMakeFiles/_alphabetical_removals.dir"
+}
